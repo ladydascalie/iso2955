@@ -1,0 +1,10 @@
+= ISO 2955
+
+International processing – representations of SI and other units in systems with limited character sets.
+
+[NOTE]
+====
+The representations of units as listed in this International Standard are intended for use only in Systems with limited graphic Character set capabilities.
+They are not intended to replace the international symbols in other applications.
+*ISO 31* and *ISO 1000* provide the approved international symbols.
+====
